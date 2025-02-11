@@ -2,8 +2,8 @@
 
 A simple interactive web application where users can click on boxes to change their colors, and after a set time, the color resets. Built using **React.js** and deployed on **Vercel**.
 
-## Live Demo
-[Color Count](https://color-count-fzormyidv-prasha111s-projects.vercel.app)
+## Live url
+(https://color-count-fzormyidv-prasha111s-projects.vercel.app)
 
 ## Features
 - Clickable boxes that change color on interaction.
