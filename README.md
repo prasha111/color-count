@@ -1,68 +1,56 @@
-Color Count
+# Color Count
 
-A simple interactive web application where users can click on boxes to change their colors, and after a set time, the color resets. Built using React.js and deployed on Vercel.
+A simple interactive web application where users can click on boxes to change their colors, and after a set time, the color resets. Built using **React.js** and deployed on **Vercel**.
 
-Live Demo
+## Live Demo
+[Color Count](https://color-count-fzormyidv-prasha111s-projects.vercel.app)
 
-Color Count
+## Features
+- Clickable boxes that change color on interaction.
+- Automatic color reset after a defined time interval.
+- Real-time tracking of active color states.
+- Uses React state management for smooth updates.
 
-Features
+## Technologies Used
+- **React.js** – Frontend framework.
+- **CSS** – For styling the components.
+- **Vercel** – Deployment platform.
 
-Clickable boxes that change color on interaction.
+## Installation & Setup
 
-Automatic color reset after a defined time interval.
+### Prerequisites
+Make sure you have **Node.js** and **npm/yarn** installed.
 
-Real-time tracking of active color states.
+### Steps
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-repo/color-count.git
+   cd color-count
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm start
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-Uses React state management for smooth updates.
+## Deployment
+To deploy the project on **Vercel**:
+1. Install Vercel CLI:
+   ```sh
+   npm install -g vercel
+   ```
+2. Run the deployment command:
+   ```sh
+   vercel
+   ```
 
-Technologies Used
-
-React.js – Frontend framework.
-
-CSS – For styling the components.
-
-Vercel – Deployment platform.
-
-Installation & Setup
-
-Prerequisites
-
-Make sure you have Node.js and npm/yarn installed.
-
-Steps
-
-Clone the repository:
-
-git clone https://github.com/your-repo/color-count.git
-cd color-count
-
-Install dependencies:
-
-npm install
-
-Start the development server:
-
-npm start
-
-Open http://localhost:3000 in your browser.
-
-Deployment
-
-To deploy the project on Vercel:
-
-Install Vercel CLI:
-
-npm install -g vercel
-
-Run the deployment command:
-
-vercel
-
-Contributing
-
+## Contributing
 Feel free to submit issues or pull requests for improvements.
 
-License
+## License
+This project is open-source under the **MIT License**.
 
-This project is open-source under the MIT License.
